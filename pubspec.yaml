@@ -82,7 +82,7 @@ flutter:
         - asset: assets/fonts/Averta Cyrillic Extra Thin Italic.otf
           weight: 100
           style: italic
-        - asset: assets/fonts/Averta Cyrillic Extra Thin.otfS
+        - asset: assets/fonts/Averta Cyrillic Extra Thin.otf
           weight: 100
         - asset: assets/fonts/Averta Cyrillic ExtraBold Italic.otf
           style: italic
