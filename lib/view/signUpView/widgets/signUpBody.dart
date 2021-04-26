@@ -3,14 +3,6 @@ import 'package:meelz/utils/shared/signUpInLabelsAboveTextField.dart';
 import 'package:meelz/utils/shared/signUpInTextFormField.dart';
 
 import '../../../utils/textVariables.dart';
-import '../../../utils/textVariables.dart';
-import '../../../utils/textVariables.dart';
-import '../../../utils/textVariables.dart';
-import '../../../utils/textVariables.dart';
-import '../../../utils/textVariables.dart';
-import '../../../utils/textVariables.dart';
-import '../../../utils/textVariables.dart';
-import '../../../utils/textVariables.dart';
 
 class SignUpPageBody extends StatelessWidget {
   @override
