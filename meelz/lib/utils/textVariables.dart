@@ -1,0 +1,1 @@
+String pocetak = "S bismillom";
