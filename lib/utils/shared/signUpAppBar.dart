@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:meelz/view/signUpView/widgets/skipSignInButton.dart';
+import 'package:meelz/utils/shared/skipSignInButton.dart';
 
 ///appbar for sign up screen
 Widget signUpAppBar(BuildContext context) {

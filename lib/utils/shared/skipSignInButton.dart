@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-
-import '../../../utils/textVariables.dart';
+import '../textVariables.dart';
 
 ///button which send user to app directly and it is used on sign up and sign in
 class SkipSignUpInButton extends StatelessWidget {
