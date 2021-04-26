@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:meelz/view/signUpView/widgets/signUpAppBar.dart';
+import '../widgets/signUpAppBar.dart';
 
 ///signup screen with scaffold
 class SignUpPage extends StatefulWidget {
