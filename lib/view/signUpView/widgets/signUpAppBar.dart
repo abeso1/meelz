@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
+import 'package:meelz/view/signUpView/widgets/skipSignInButton.dart';
 
 ///appbar for sign up screen
 Widget signUpAppBar(BuildContext context) {
@@ -19,13 +20,7 @@ Widget signUpAppBar(BuildContext context) {
         width: 74,
       ),
     ),
-    actions: [
-      RaisedButton(
-        color: Colors.transparent,
-        elevation: 0,
-        onPressed: () {},
-        child: Text("SKIP"),
-      )
-    ],
+    //skip button which leads us in app directly
+    actions: [SkipSignUpInButton(),],
   );
 }
