@@ -19,8 +19,13 @@ class SignUpInTextFormFieldWidget extends StatelessWidget {
           fontWeight: FontWeight.w400,
           fontSize: 16,
         ),
+        suffixIcon: isObscureText
+            ? Icon(
+                Icons.visibility_off,
+                size: 20,
+              )
+            : null,
       ),
     );
   }
 }
-
