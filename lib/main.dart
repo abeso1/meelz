@@ -13,6 +13,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
       theme: ThemeData(
+        fontFamily: "Averta Cyrillic",
         primarySwatch: primaryColor,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),

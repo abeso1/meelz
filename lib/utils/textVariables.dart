@@ -1,1 +1,1 @@
-String pocetak = "S bismillom";
+String skipSignUpButtonText = "SKIP";
